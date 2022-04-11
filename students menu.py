@@ -1,5 +1,6 @@
 #Menu driven prg using dictionary,list for students
 #1 Add 2 Update  3 Delete  4 Select All records  5 Select specific record
+print("1 Add 2 Update  3 Delete  4 Select All records  5 Select specific record")
 stList={}
 stdict={}
 flag=1
